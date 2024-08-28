@@ -1,3 +1,9 @@
+# Youtube
+[tutorial](https://youtu.be/62V4Hqfo5qk)
+
+# Notion
+[serverless run](https://neighborly-airport-3a6.notion.site/AWS-Serverless-Run-c61edcd9adfa489a9ccd3657208d51f4?pvs=4)
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
